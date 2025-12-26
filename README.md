@@ -1,16 +1,77 @@
-# React + Vite
+🧠 Not-To-Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and intuitive web application designed to help you track how you spend your time and make better decisions about your daily activities.
 
-Currently, two official plugins are available:
+Instead of focusing only on tasks you need to do, this app helps you identify time-wasting habits so you can reduce or eliminate them.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
 
-## React Compiler
+➕ Add activities with:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Activity name
 
-## Expanding the ESLint configuration
+Time spent (in hours)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Category: Good or Bad
+
+🔄 Swap activities between Good and Bad lists
+
+🗑️ Delete activities you no longer want to track
+
+📊 Visualise how your time is being spent
+
+🤔 Reflect on whether certain activities should be reduced or removed
+
+🛠️ Tech Stack
+
+This project is built using modern frontend tools:
+
+⚡ Vite — fast development and build tool
+
+⚛️ React — component-based UI
+
+🎨 Tailwind CSS — utility-first styling
+
+🧠 JavaScript (ES6+)
+
+Mentioning these is important — it immediately shows your technical skills and stack familiarity.
+
+🚀 Getting Started
+
+1. Clone the repository
+   git clone https://github.com/your-username/not-to-do-list.git
+
+2. Install dependencies
+   npm install
+
+3. Run the app
+   npm run dev
+
+The app will be available at http://localhost:5173
+
+📌 Purpose & Learning Outcomes
+
+This project was built to:
+
+Practice React state management and component design
+
+Use Tailwind CSS for responsive layouts
+
+Understand user-focused design for habit tracking
+
+Build a meaningful productivity tool beyond a standard to-do list
+
+🔮 Future Improvements (Optional but recommended)
+
+Local storage persistence
+
+Charts or time-summary analytics
+
+Mobile-first enhancements
+
+Drag-and-drop activity sorting
+
+👩‍💻 Author
+
+Macarena Lopez
+Full-Stack Developer
